@@ -19,5 +19,13 @@ Welcome to this repository where I share some of the most influential papers in 
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 * [On the Variance of the Adaptive Learning Rate and Beyond](https://arxiv.org/abs/1908.03265)
 
-### 
+### Normalization
+
+* [How Does Batch Normalization Help Optimization?](https://arxiv.org/abs/1805.11604)
+* [Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models](https://arxiv.org/abs/1702.03275)
+* [Layer Normalization](https://arxiv.org/abs/1607.06450)
+* [Instance Normalization: The Missing Ingredient for Fast Stylization](https://arxiv.org/abs/1607.08022)
+* [Group Normalization](https://arxiv.org/abs/1803.08494)
+* [Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks](https://arxiv.org/abs/1602.07868)
+* [Spectral Norm Regularization for Improving the Generalizability of Deep Learning](https://arxiv.org/abs/1705.10941)
 
