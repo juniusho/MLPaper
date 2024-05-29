@@ -29,3 +29,6 @@ Welcome to this repository where I share some of the most influential papers in 
 * [Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks](https://arxiv.org/abs/1602.07868)
 * [Spectral Norm Regularization for Improving the Generalizability of Deep Learning](https://arxiv.org/abs/1705.10941)
 
+### Convolutional Neural Network
+* [Mastering the Game of Go with Deep Neural Networks and Tree Search](https://www.davidsilver.uk/wp-content/uploads/2020/03/unformatted_final_mastering_go.pdf)
+
