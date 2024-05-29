@@ -32,3 +32,6 @@ Welcome to this repository where I share some of the most influential papers in 
 ### Convolutional Neural Network
 * [Mastering the Game of Go with Deep Neural Networks and Tree Search](https://www.davidsilver.uk/wp-content/uploads/2020/03/unformatted_final_mastering_go.pdf)
 
+### "Deep" Learning
+* [Conversational Speech Transcription Using Context-Dependent Deep Neural Networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CD-DNN-HMM-SWB-Interspeech2011-Pub.pdf)
+
