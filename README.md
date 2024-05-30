@@ -81,3 +81,10 @@ Welcome to this repository where I share some of the most influential papers in 
 
 * [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
 * [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
+* [Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models](https://arxiv.org/abs/2308.10379)
+* [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
+* [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Task](https://arxiv.org/abs/2211.12588)
+
+### Tool Utilization by LLM
+
+* [AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls](https://arxiv.org/abs/2402.04253)
