@@ -30,10 +30,17 @@ Welcome to this repository where I share some of the most influential papers in 
 * [Spectral Norm Regularization for Improving the Generalizability of Deep Learning](https://arxiv.org/abs/1705.10941)
 
 ### Convolutional Neural Network
+
 * [Mastering the Game of Go with Deep Neural Networks and Tree Search](https://www.davidsilver.uk/wp-content/uploads/2020/03/unformatted_final_mastering_go.pdf)
 
 ### "Deep" Learning
+
 * [Conversational Speech Transcription Using Context-Dependent Deep Neural Networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CD-DNN-HMM-SWB-Interspeech2011-Pub.pdf)
 
 ### Spatial Transformer Layer
+
 * [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025)
+
+### Large Language Model
+
+* [The Curious Case of Neural Text Degeneration](https://arxiv.org/abs/1904.09751)
