@@ -44,3 +44,16 @@ Welcome to this repository where I share some of the most influential papers in 
 ### Large Language Model
 
 * [The Curious Case of Neural Text Degeneration](https://arxiv.org/abs/1904.09751)
+* [An In-depth Look at Gemini's Language Abilities](https://arxiv.org/abs/2312.11444)
+* [Examining Forgetting in Continual Pre-training of Aligned Large Language Models](https://arxiv.org/abs/2401.03129)
+* [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+* [Zero-shot Reading Comprehension by Cross-lingual Transfer Learning with Multi-lingual Language Representation Model](https://arxiv.org/abs/1909.09587)
+* [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916)
+* [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910)
+* [Learning to Generate Prompts for Dialogue Generation through Reinforcement Learning](https://arxiv.org/abs/2206.03931)
+* [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409)
+* [Re3: Generating Longer Stories With Recursive Reprompting and Revision](https://arxiv.org/abs/2210.06774)
+* [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
+* [DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents](https://arxiv.org/abs/2303.17071)
+* [Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents](https://arxiv.org/abs/2201.07207)
+* [Inner Monologue: Embodied Reasoning through Planning with Language Models](https://arxiv.org/abs/2207.05608)
