@@ -49,7 +49,6 @@ Welcome to this repository where I share some of the most influential papers in 
 * [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
 * [Zero-shot Reading Comprehension by Cross-lingual Transfer Learning with Multi-lingual Language Representation Model](https://arxiv.org/abs/1909.09587)
 * [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916)
-* [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910)
 * [Learning to Generate Prompts for Dialogue Generation through Reinforcement Learning](https://arxiv.org/abs/2206.03931)
 * [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409)
 * [Re3: Generating Longer Stories With Recursive Reprompting and Revision](https://arxiv.org/abs/2210.06774)
@@ -57,3 +56,22 @@ Welcome to this repository where I share some of the most influential papers in 
 * [DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents](https://arxiv.org/abs/2303.17071)
 * [Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents](https://arxiv.org/abs/2201.07207)
 * [Inner Monologue: Embodied Reasoning through Planning with Language Models](https://arxiv.org/abs/2207.05608)
+
+### Prompt Engineering
+
+* [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910)
+* [Can Large Language Models Be an Alternative to Human Evaluations?](https://arxiv.org/abs/2305.01937)
+* [A Closer Look into Automatic Evaluation Using Large Language Models](https://arxiv.org/abs/2310.05657)
+* [Large Language Models Understand and Can be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760)
+* [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://arxiv.org/abs/2312.16171)
+* [The Unreliability of Explanations in Few-shot Prompting for Textual Reasoning](https://arxiv.org/abs/2205.03401)
+
+### Reinforcement Learning
+
+* [Learning to Generate Prompts for Dialogue Generation through Reinforcement Learning](https://arxiv.org/abs/2206.03931)
+
+### In-context Learning
+
+* [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+* [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/abs/2202.12837)
+* [Larger language models do in-context learning differently](https://arxiv.org/abs/2303.03846)
