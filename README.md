@@ -88,3 +88,27 @@ Welcome to this repository where I share some of the most influential papers in 
 ### Tool Utilization by LLM
 
 * [AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls](https://arxiv.org/abs/2402.04253)
+
+### Multi-Agent Debate
+
+* [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://arxiv.org/abs/2305.19118)
+* [Improving Factuality and Reasoning in Language Models through Multiagent Debate](https://arxiv.org/abs/2305.14325)
+* [Exchange-of-Thought: Enhancing Large Language Model Capabilities through Cross-Model Communication](https://arxiv.org/abs/2312.01823)
+* [CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://arxiv.org/abs/2303.17760)
+* [Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization](https://arxiv.org/abs/2310.02170)
+* [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
+* [MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)
+
+### Data Usage
+
+* [When Do You Need Billions of Words of Pretraining Data?](https://arxiv.org/abs/2011.04946)
+* [Better Language Models Without Massive Compute](https://research.google/blog/better-language-models-without-massive-compute/)
+
+### Data Cleaning
+
+* [Deduplicating Training Data Makes Language Models Better](https://arxiv.org/abs/2107.06499)
+* [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446)
+
+### History of GPT
+
+* [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
