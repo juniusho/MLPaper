@@ -46,7 +46,6 @@ Welcome to this repository where I share some of the most influential papers in 
 * [The Curious Case of Neural Text Degeneration](https://arxiv.org/abs/1904.09751)
 * [An In-depth Look at Gemini's Language Abilities](https://arxiv.org/abs/2312.11444)
 * [Examining Forgetting in Continual Pre-training of Aligned Large Language Models](https://arxiv.org/abs/2401.03129)
-* [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
 * [Zero-shot Reading Comprehension by Cross-lingual Transfer Learning with Multi-lingual Language Representation Model](https://arxiv.org/abs/1909.09587)
 * [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916)
 * [Learning to Generate Prompts for Dialogue Generation through Reinforcement Learning](https://arxiv.org/abs/2206.03931)
@@ -112,3 +111,32 @@ Welcome to this repository where I share some of the most influential papers in 
 ### History of GPT
 
 * [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+
+### Open-source LLM
+
+* [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
+* [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
+* [Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+* [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality](https://lmsys.org/blog/2023-03-30-vicuna/)
+* [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+
+### Instruction Fine-tuning
+
+* [SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems](https://arxiv.org/abs/1905.00537)
+* [LAMOL: LAnguage MOdeling for Lifelong Language Learning](https://arxiv.org/abs/1909.03329v2)
+* [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
+* [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/abs/2110.08207)
+* [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
+* [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)
+* [The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717)
+* [Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560)
+
+### Reinforcement Learning from Human Feedback
+
+* [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)
+* [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+* [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
+* [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
+* [KTO: Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/abs/2402.01306)
+* [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
+
