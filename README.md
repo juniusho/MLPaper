@@ -157,3 +157,12 @@ Welcome to this repository where I share some of the most influential papers in 
 * [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242)
 * [Imagen Video: High Definition Video Generation with Diffusion Models](https://arxiv.org/abs/2210.02303)
 
+### Diffusion Transformer
+
+* [Scalable Diffusion Models with Transformers](https://arxiv.org/abs/2212.09748)
+
+### Generative Adversarial Network (GAN)
+
+* [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/abs/1512.09300)
+* [Flow-GAN: Combining Maximum Likelihood and Adversarial Learning in Generative Models](https://arxiv.org/abs/1705.08868)
+* [Diffusion-GAN: Training GANs with Diffusion](https://arxiv.org/abs/2206.02262)
