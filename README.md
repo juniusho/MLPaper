@@ -144,3 +144,16 @@ Welcome to this repository where I share some of the most influential papers in 
 
 * [FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/abs/2305.05176)
 
+### Generating Image/Video by AI
+
+* [AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation](https://arxiv.org/abs/2403.17694)
+* [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
+* [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
+* [ViViT: A Video Vision Transformer](https://arxiv.org/abs/2103.15691)
+* [Video generation models as world simulators](https://openai.com/index/video-generation-models-as-world-simulators/)
+* [LAION-5B: A NEW ERA OF OPEN LARGE-SCALE MULTI-MODAL DATASETS](https://laion.ai/blog/laion-5b/)
+* [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
+* [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618)
+* [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242)
+* [Imagen Video: High Definition Video Generation with Diffusion Models](https://arxiv.org/abs/2210.02303)
+
